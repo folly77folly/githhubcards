@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export class index extends Component {
+class Index extends Component {
     render() {
         return (
             <div>
@@ -10,4 +10,4 @@ export class index extends Component {
     }
 }
 
-export default index
+export default Index
