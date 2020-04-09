@@ -1,0 +1,14 @@
+.git-profile{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.profile-image{
+    width: 75px;
+    height: 75px;
+}
+
+.info{
+    margin:7px;
+}
